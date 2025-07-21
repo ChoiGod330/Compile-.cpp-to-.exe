@@ -29,5 +29,5 @@ gcc [FILENAME.cpp] -o [OUTPUTFILENAME.cpp]
 ```
 3. The .exe file will be created in the path
 ```Shell
-C:\[PATH]\[OUTPUTFILENAME.cpp]
+C:\[PATH]\[OUTPUTFILENAME.exe]
 ``` 
