@@ -2,6 +2,7 @@
 ### Install Compiler
 1. Go to [MinGW](https://sourceforge.net/projects/mingw/), download and install the compiler. (The default install location is C:\MinGW, mark down if you customised)
 2. Check all "Package" boxes in the MinGW Installation Manager
+![image](https://github.com/ChoiGod330/Compile-.cpp-to-.exe/blob/main/Installation%20Manager.png)
 3. Click "Installation" and "Apply Changes"
 4. Wait for downloading the packages
 5. Open "Environment Variables"
