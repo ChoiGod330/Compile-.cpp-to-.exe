@@ -31,3 +31,5 @@ gcc [FILENAME.cpp] -o [OUTPUTFILENAME.cpp]
 ```Shell
 C:\[PATH]\[OUTPUTFILENAME.exe]
 ``` 
+
+This is a tutorial for compiling .cpp to .exe written by @ChoiGod330
