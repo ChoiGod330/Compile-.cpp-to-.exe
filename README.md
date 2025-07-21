@@ -26,7 +26,7 @@ cd C:\[PATH]
 ```
 2. Run the command below:
 ```Shell
-gcc [FILENAME.cpp] -o [OUTPUTFILENAME.cpp]
+g++ [FILENAME.cpp] -o [OUTPUTFILENAME.cpp]
 ```
 3. The .exe file will be created in the path
 ```Shell
